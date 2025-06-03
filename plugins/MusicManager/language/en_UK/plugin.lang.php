@@ -1,0 +1,44 @@
+<?php
+
+$lang['Musics'] = 'Musics';
+$lang['Raya'] = 'Raya';
+$lang['skeleton'] = 'skeleton';
+$lang['MusicManager'] = 'MusicManager';
+
+$lang['Raya music page'] = 'Raya music page';
+$lang['Kuda'] = 'Kuda';
+$lang['Kuda music page'] = 'Kuda music page';
+$lang['Hura3'] = 'Hura3';
+$lang['Hura3 music page'] = 'Hura3 music page';
+$lang['Awrs'] = 'Awrs';
+$lang['Awrs music page'] = 'Awrs music page';
+$lang['Kunama'] = 'Kunama';
+$lang['music_manager_musics'] = 'music_manager_musics';
+$lang['Kunama music page'] = 'Kunama music page';
+$lang['Musics page'] = 'Musics page';
+$lang['Musics page description'] = 'This is a page that lists all the music files available in the Raya plugin. You can listen to them directly from this page.';
+$lang['Music'] = 'Music';
+$lang['Music file'] = 'Music file';
+$lang['Description'] = 'Description';
+$lang['Singer'] = 'Singer';
+$lang['Title'] = 'Title';
+$lang['Uploaded on'] = 'Uploaded on';
+$lang['Music list'] = 'Music list';
+$lang['Music list description'] = 'This is a list of all the music files available in the Raya plugin. You can listen to them directly from this page.';
+$lang['Music file not found'] = 'Music file not found';
+$lang['Music file not found description'] = 'The requested music file could not be found. Please check the file name and try again.';
+$lang['Music file not found title'] = 'Music file not found';
+$lang['Music file not found message'] = 'The music file you are looking for does not exist or has been removed. Please check the file name and try again.';
+$lang['Music file not found back'] = 'Back to music list';
+$lang['Music file not found back description'] = 'Click here to return to the music list.';
+$lang['Music file not found back title'] = 'Back to music list';
+$lang['Music file not found back message'] = 'You can return to the music list by clicking the button below.';
+$lang['Music file not found back button'] = 'Back to music list';
+$lang['Music file not found back button description'] = 'Click this button to return to the music list.';
+$lang['Music file not found back button title'] = 'Back to music list';
+$lang['Music file not found back button message'] = 'You can return to the music list by clicking the button below.';
+$lang['Music file not found back button text'] = 'Back to music list';
+$lang['Music file not found back button text description'] = 'This is the text that will be displayed on the button to return to the music list.';
+$lang['Music file not found back button text title'] = 'Back to music list';
+$lang['Music file not found back button text message'] = 'You can return to the music list by clicking the button below.';
+$lang['Music file not found back button text default'] = 'Back to music list';
