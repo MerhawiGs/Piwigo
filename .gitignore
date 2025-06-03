@@ -1,9 +1,6 @@
 # Piwigo specific directories
-/_data
 !/plugins/index.php
 /upload
-/galleries/*
-!/galleries/index.php
 
 # IntelliJ
 .idea

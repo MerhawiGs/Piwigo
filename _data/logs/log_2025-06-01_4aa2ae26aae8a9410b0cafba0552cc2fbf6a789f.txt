@@ -1,0 +1,85 @@
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	upload_file_pdf, $file_path = ././upload/2025/06/01/20250601071024-7dd5ceaf.png, $representative_ext = 
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	upload_file_heic, $file_path = ././upload/2025/06/01/20250601071024-7dd5ceaf.png, $representative_ext = 
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	upload_file_tiff, $file_path = ././upload/2025/06/01/20250601071024-7dd5ceaf.png, $representative_ext = 
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	upload_file_video, $file_path = ././upload/2025/06/01/20250601071024-7dd5ceaf.png, $representative_ext = 
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	upload_file_psd, $file_path = ././upload/2025/06/01/20250601071024-7dd5ceaf.png, $representative_ext = 
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	upload_file_eps, $file_path = ././upload/2025/06/01/20250601071024-7dd5ceaf.png, $representative_ext = 
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	Handling ././upload/2025/06/01/20250601071024-7dd5ceaf.png got 
+[2025-06-01 6:10:24][exec=iY9tvb7j6t]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/photos/i.php?/upload/2025/06/01/20250601071024-7dd5ceaf-me.png
+[2025-06-01 6:10:25][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250601071024-7dd5ceaf.png'
+  derivative_path: '20250601071024-7dd5ceaf-me.png'
+  o_size: '1439 783 1126737'
+  d_size: '792 430 340560'
+  mem_usage: 13.0
+  timing: array(
+    'load' => 187,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 145,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 305,
+    'send' => 16,
+    'total' => 655,
+  )
+[2025-06-01 6:10:25][exec=8EHqVt8y3B]	[DEBUG]	empty_lounge (API:pwg.images.uploadCompleted), exec=hDkZ, begins
+[2025-06-01 6:10:25][exec=8EHqVt8y3B]	[DEBUG]	empty_lounge, exec=hDkZ wins the race and gets the token!
+[2025-06-01 6:10:25][exec=8EHqVt8y3B]	[INFO]	invalidate_user_cache called
+[2025-06-01 6:10:25][exec=8EHqVt8y3B]	[DEBUG]	empty_lounge, exec=hDkZ, ends
+[2025-06-01 6:10:25][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250601071024-7dd5ceaf-me.png'
+  derivative_path: '20250601071024-7dd5ceaf-sq.png'
+  o_size: '792 430 340560'
+  d_size: '120 120 14400'
+  mem_usage: 3.8
+  timing: array(
+    'load' => 126,
+    'rotate' => '',
+    'crop' => 16,
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 11,
+    'send' => 13,
+    'total' => 182,
+  )
+[2025-06-01 6:13:49][exec=X0mUIeZbLz]	[INFO]	invalidate_user_cache called
+[2025-06-01 6:14:04][exec=Si5l1RKSgZ]	[INFO]	[getuserdata][exec_code=2c37][user_id=1] needs user_cache to be rebuilt
+[2025-06-01 6:14:04][exec=Si5l1RKSgZ]	[INFO]	[generate_user_cache-u1][exec=c686aacd] starts now
+[2025-06-01 6:14:04][exec=Si5l1RKSgZ]	[INFO]	[generate_user_cache-u1][exec=c686aacd] wins the race and gets the token!
+[2025-06-01 6:14:04][exec=Si5l1RKSgZ]	[INFO]	[getuserdata][exec_code=2c37][user_id=1] user_cache generated, executed in 0.007 s
+[2025-06-01 6:14:06][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250601071024-7dd5ceaf.png'
+  derivative_path: '20250601071024-7dd5ceaf-sm.png'
+  o_size: '1439 783 1126737'
+  d_size: '576 313 180288'
+  mem_usage: 13.0
+  timing: array(
+    'load' => 228,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 108,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 154,
+    'send' => 17,
+    'total' => 508,
+  )
+[2025-06-01 6:14:22][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233120-887660f6.jpg'
+  derivative_path: '20250530233120-887660f6-la.jpg'
+  o_size: '853 1280 1091840'
+  d_size: '503 756 380268'
+  mem_usage: 7.3
+  timing: array(
+    'load' => 168,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 165,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 58,
+    'send' => 40,
+    'total' => 433,
+  )

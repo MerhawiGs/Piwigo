@@ -1,0 +1,57 @@
+Array
+(
+    [infos] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+    [warnings] => Array
+        (
+        )
+
+    [messages] => Array
+        (
+        )
+
+    [body_classes] => Array
+        (
+            [0] => section-categories
+        )
+
+    [body_data] => Array
+        (
+            [section] => categories
+        )
+
+    [execution_uuid] => PwuB6oRIUu
+    [count_queries] => 11
+    [queries_time] => 0.00649094581604
+    [user_use_cache] => 1
+    [items] => Array
+        (
+        )
+
+    [startcat] => 0
+    [start] => 0
+    [root_path] => 
+    [section] => MusicManager
+    [is_homepage] => 1
+    [nb_image_page] => 15
+    [title] => Raya
+    [section_title] => <a href="http://localhost/photos/">Home</a> / <a href="http://localhost/photos/index.php?/MusicManager/">MusicManager</a> / Musics / Raya
+    [meta_robots] => Array
+        (
+        )
+
+    [skeleton_subpage] => musics
+    [skeleton_sub_subpage] => raya
+    [body_id] => theSkeletonPage
+    [is_external] => 1
+    [navigation_bar] => Array
+        (
+        )
+
+)

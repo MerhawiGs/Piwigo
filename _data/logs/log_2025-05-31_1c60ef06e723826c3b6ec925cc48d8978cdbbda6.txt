@@ -1,0 +1,98 @@
+[2025-05-31 6:22:26][exec=y9oemzROLu]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.002 s
+[2025-05-31 6:26:45][exec=4wORANYsgR]	[INFO]	invalidate_user_cache called
+[2025-05-31 6:27:31][exec=G7CrgflPhA]	[INFO]	[getuserdata][exec_code=0c1b][user_id=1] needs user_cache to be rebuilt
+[2025-05-31 6:27:31][exec=G7CrgflPhA]	[INFO]	[generate_user_cache-u1][exec=9df8acc8] starts now
+[2025-05-31 6:27:31][exec=G7CrgflPhA]	[INFO]	[generate_user_cache-u1][exec=9df8acc8] wins the race and gets the token!
+[2025-05-31 6:27:31][exec=G7CrgflPhA]	[INFO]	[getuserdata][exec_code=0c1b][user_id=1] user_cache generated, executed in 0.040 s
+[2025-05-31 6:30:27][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233118-b80a5f95.jpg'
+  derivative_path: '20250530233118-b80a5f95-la.jpg'
+  o_size: '1024 1536 1572864'
+  d_size: '504 756 381024'
+  mem_usage: 8.3
+  timing: array(
+    'load' => 190,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 255,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 12,
+    'send' => 19,
+    'total' => 478,
+  )
+[2025-05-31 6:59:56][exec=UHWOJkXqFC]	[INFO]	[getuserdata][exec_code=6553][user_id=2] needs user_cache to be rebuilt
+[2025-05-31 6:59:56][exec=UHWOJkXqFC]	[INFO]	[generate_user_cache-u2][exec=fc77fc10] starts now
+[2025-05-31 6:59:56][exec=UHWOJkXqFC]	[INFO]	[generate_user_cache-u2][exec=fc77fc10] wins the race and gets the token!
+[2025-05-31 6:59:56][exec=UHWOJkXqFC]	[INFO]	[getuserdata][exec_code=6553][user_id=2] user_cache generated, executed in 0.007 s
+[2025-05-31 7:06:39][exec=GbYkVMAgpE]	[INFO]	invalidate_user_cache called
+[2025-05-31 7:07:00][exec=UPTmhXz96i]	[INFO]	[getuserdata][exec_code=7c92][user_id=1] needs user_cache to be rebuilt
+[2025-05-31 7:07:00][exec=UPTmhXz96i]	[INFO]	[generate_user_cache-u1][exec=d2dd4d96] starts now
+[2025-05-31 7:07:00][exec=UPTmhXz96i]	[INFO]	[generate_user_cache-u1][exec=d2dd4d96] wins the race and gets the token!
+[2025-05-31 7:07:00][exec=UPTmhXz96i]	[INFO]	[getuserdata][exec_code=7c92][user_id=1] user_cache generated, executed in 0.008 s
+[2025-05-31 7:20:39][exec=KIpEvAAPUv]	[INFO]	[getuserdata][exec_code=84e1][user_id=2] needs user_cache to be rebuilt
+[2025-05-31 7:20:39][exec=KIpEvAAPUv]	[INFO]	[generate_user_cache-u2][exec=a31a7c5e] starts now
+[2025-05-31 7:20:39][exec=KIpEvAAPUv]	[INFO]	[generate_user_cache-u2][exec=a31a7c5e] wins the race and gets the token!
+[2025-05-31 7:20:39][exec=KIpEvAAPUv]	[INFO]	[getuserdata][exec_code=84e1][user_id=2] user_cache generated, executed in 0.007 s
+[2025-05-31 7:24:51][exec=znNxUXTVUS]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.002 s
+[2025-05-31 9:52:14][exec=EzF1cYHXGx]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.001 s
+[2025-05-31 10:41:36][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233118-b80a5f95-la.jpg'
+  derivative_path: '20250530233118-b80a5f95-sm.jpg'
+  o_size: '504 756 381024'
+  d_size: '288 432 124416'
+  mem_usage: 2.8
+  timing: array(
+    'load' => 170,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 46,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 18,
+    'total' => 239,
+  )
+[2025-05-31 10:41:41][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233120-887660f6-me.jpg'
+  derivative_path: '20250530233120-887660f6-sm.jpg'
+  o_size: '395 594 234630'
+  d_size: '287 432 123984'
+  mem_usage: 2.4
+  timing: array(
+    'load' => 122,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 37,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 14,
+    'total' => 177,
+  )
+[2025-05-31 10:42:51][exec=9pKvHSr3mq]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.001 s
+[2025-05-31 10:43:07][exec=RhSmNNImDI]	[DEBUG]	[search]	get_regular_search_results
+  mode: 'AND'
+  fields: array(
+    'allwords' => array(
+      'words' => array(
+        0 => 'Tech',
+      ),
+      'mode' => 'AND',
+      'fields' => array(
+        0 => 'file',
+        1 => 'name',
+        2 => 'comment',
+        3 => 'tags',
+        4 => 'author',
+        5 => 'cat-title',
+        6 => 'cat-desc',
+      ),
+    ),
+    'cat' => array(
+      'words' => array(),
+      'sub_inc' => true,
+    ),
+  )
+[2025-05-31 10:43:07][exec=RhSmNNImDI]	[DEBUG]	get_regular_search_results 0 items in $unsorted_items
+[2025-05-31 10:44:56][exec=a97F3KNfQa]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.001 s

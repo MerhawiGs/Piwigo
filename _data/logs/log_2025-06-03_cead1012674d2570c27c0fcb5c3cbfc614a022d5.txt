@@ -1,0 +1,101 @@
+[2025-06-03 4:53:34][exec=YJ3OPKieyc]	[INFO]	[getuserdata][exec_code=49b9][user_id=1] needs user_cache to be rebuilt
+[2025-06-03 4:53:34][exec=YJ3OPKieyc]	[INFO]	[generate_user_cache-u1][exec=b4d4df71] starts now
+[2025-06-03 4:53:34][exec=YJ3OPKieyc]	[INFO]	[generate_user_cache-u1][exec=b4d4df71] wins the race and gets the token!
+[2025-06-03 4:53:34][exec=YJ3OPKieyc]	[INFO]	[getuserdata][exec_code=49b9][user_id=1] user_cache generated, executed in 0.013 s
+[2025-06-03 4:53:38][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250603001941-b831ab1f.jpg'
+  derivative_path: '20250603001941-b831ab1f-cu_e250.jpg'
+  o_size: '1200 885 1062000'
+  d_size: '250 250 62500'
+  mem_usage: 11.2
+  timing: array(
+    'load' => 270,
+    'rotate' => '',
+    'crop' => 96,
+    'scale' => 86,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 24,
+    'total' => 482,
+  )
+[2025-06-03 4:57:57][exec=2jZytqX01K]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.002 s
+[2025-06-03 5:06:35][exec=tnLuR6tY1k]	[INFO]	invalidate_user_cache called
+[2025-06-03 5:10:09][exec=TCNXRsu4V4]	[INFO]	[getuserdata][exec_code=587c][user_id=2] needs user_cache to be rebuilt
+[2025-06-03 5:10:09][exec=TCNXRsu4V4]	[INFO]	[generate_user_cache-u2][exec=7f425c75] starts now
+[2025-06-03 5:10:09][exec=TCNXRsu4V4]	[INFO]	[generate_user_cache-u2][exec=7f425c75] wins the race and gets the token!
+[2025-06-03 5:10:09][exec=TCNXRsu4V4]	[INFO]	[getuserdata][exec_code=587c][user_id=2] user_cache generated, executed in 0.010 s
+[2025-06-03 5:10:50][exec=zHQHtwVh4g]	[INFO]	[getuserdata][exec_code=9122][user_id=1] needs user_cache to be rebuilt
+[2025-06-03 5:10:50][exec=zHQHtwVh4g]	[INFO]	[generate_user_cache-u1][exec=4527425a] starts now
+[2025-06-03 5:10:50][exec=zHQHtwVh4g]	[INFO]	[generate_user_cache-u1][exec=4527425a] wins the race and gets the token!
+[2025-06-03 5:10:50][exec=zHQHtwVh4g]	[INFO]	[getuserdata][exec_code=9122][user_id=1] user_cache generated, executed in 0.007 s
+[2025-06-03 5:11:08][exec=nWGQoKdkSs]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.002 s
+[2025-06-03 5:47:53][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250603001941-b831ab1f-me.jpg'
+  derivative_path: '20250603001941-b831ab1f-xs.jpg'
+  o_size: '792 584 462528'
+  d_size: '432 318 137376'
+  mem_usage: 3.7
+  timing: array(
+    'load' => 531,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 86,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 8,
+    'send' => 29,
+    'total' => 655,
+  )
+[2025-06-03 5:47:59][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250603001428-d8bfee4a-me.jpg'
+  derivative_path: '20250603001428-d8bfee4a-xs.jpg'
+  o_size: '792 477 377784'
+  d_size: '432 260 112320'
+  mem_usage: 3.1
+  timing: array(
+    'load' => 396,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 71,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 22,
+    'total' => 496,
+  )
+[2025-06-03 5:47:59][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250603001426-24641250-me.jpg'
+  derivative_path: '20250603001426-24641250-xs.jpg'
+  o_size: '792 498 394416'
+  d_size: '432 271 117072'
+  mem_usage: 3.2
+  timing: array(
+    'load' => 398,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 66,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 26,
+    'total' => 496,
+  )
+[2025-06-03 5:48:00][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250603001427-9a5b46a8.jpg'
+  derivative_path: '20250603001427-9a5b46a8-xs.jpg'
+  o_size: '700 466 326200'
+  d_size: '432 287 123984'
+  mem_usage: 2.7
+  timing: array(
+    'load' => 406,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 71,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 45,
+    'total' => 529,
+  )
+[2025-06-03 5:51:33][exec=bQfIITHQwV]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.002 s

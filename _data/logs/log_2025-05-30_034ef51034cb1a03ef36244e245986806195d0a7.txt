@@ -1,0 +1,167 @@
+[2025-05-30 21:49:53][exec=dIZMaIyDDa]	[INFO]	[getuserdata][exec_code=7f2b][user_id=1] needs user_cache to be rebuilt
+[2025-05-30 21:49:53][exec=dIZMaIyDDa]	[INFO]	[generate_user_cache-u1][exec=11321a06] starts now
+[2025-05-30 21:49:53][exec=dIZMaIyDDa]	[INFO]	[generate_user_cache-u1][exec=11321a06] wins the race and gets the token!
+[2025-05-30 21:49:53][exec=dIZMaIyDDa]	[INFO]	[getuserdata][exec_code=7f2b][user_id=1] user_cache generated, executed in 0.017 s
+[2025-05-30 21:50:10][exec=JDoIdyvQtx]	[INFO]	[send_piwigo_infos] current conf.send_piwigo_infos_last_notice=notFound => lets do it
+[2025-05-30 21:50:10][exec=JDoIdyvQtx]	[INFO]	[send_piwigo_infos][exec=fb99cac0] starts now
+[2025-05-30 21:50:10][exec=JDoIdyvQtx]	[INFO]	[send_piwigo_infos][exec=fb99cac0] wins the race and gets the token!
+[2025-05-30 21:50:17][exec=FTFJKOzXGu]	[INFO]	[send_piwigo_infos] current conf.send_piwigo_infos_last_notice=notFound => lets do it
+[2025-05-30 21:50:17][exec=FTFJKOzXGu]	[INFO]	[send_piwigo_infos][exec=aba30a2c] starts now
+[2025-05-30 21:50:17][exec=FTFJKOzXGu]	[INFO]	[send_piwigo_infos][exec=aba30a2c] skip
+[2025-05-30 21:50:17][exec=FTFJKOzXGu]	[INFO]	[send_piwigo_infos] another execution is running, abort
+[2025-05-30 21:50:25][exec=vVgTbGb2x8]	[INFO]	[send_piwigo_infos] current conf.send_piwigo_infos_last_notice=notFound => lets do it
+[2025-05-30 21:50:25][exec=vVgTbGb2x8]	[INFO]	[send_piwigo_infos][exec=13227b07] starts now
+[2025-05-30 21:50:25][exec=vVgTbGb2x8]	[INFO]	[send_piwigo_infos][exec=13227b07] skip
+[2025-05-30 21:50:25][exec=vVgTbGb2x8]	[INFO]	[send_piwigo_infos] another execution is running, abort
+[2025-05-30 21:50:27][exec=OJo7VoOVMs]	[INFO]	[send_piwigo_infos] current conf.send_piwigo_infos_last_notice=notFound => lets do it
+[2025-05-30 21:50:27][exec=OJo7VoOVMs]	[INFO]	[send_piwigo_infos][exec=d3d2f140] starts now
+[2025-05-30 21:50:27][exec=OJo7VoOVMs]	[INFO]	[send_piwigo_infos][exec=d3d2f140] skip
+[2025-05-30 21:50:27][exec=OJo7VoOVMs]	[INFO]	[send_piwigo_infos] another execution is running, abort
+[2025-05-30 21:50:34][exec=JDoIdyvQtx]	[INFO]	[send_piwigo_infos][exec=fb99cac0] fetchRemote success, new send_piwigo_infos_last_notice=2025-05-30T21:50:34+02:00
+[2025-05-30 21:50:34][exec=JDoIdyvQtx]	[INFO]	[send_piwigo_infos][exec=fb99cac0] executed in 23.885 s
+[2025-05-30 22:12:10][exec=9fJMxs4WAO]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.001 s
+[2025-05-30 22:29:32][exec=ApTV5eLy6E]	[DEBUG]	[admin/intro::235] recent activity calculated in 0.001 s
+[2025-05-30 22:31:07][exec=KAALj4io1H]	[INFO]	invalidate_user_cache called
+[2025-05-30 22:31:18][exec=Sf07m5Whnv]	[INFO]	upload_file_pdf, $file_path = ././upload/2025/05/30/20250530233118-b80a5f95.jpg, $representative_ext = 
+[2025-05-30 22:31:19][exec=Sf07m5Whnv]	[INFO]	upload_file_heic, $file_path = ././upload/2025/05/30/20250530233118-b80a5f95.jpg, $representative_ext = 
+[2025-05-30 22:31:19][exec=Sf07m5Whnv]	[INFO]	upload_file_tiff, $file_path = ././upload/2025/05/30/20250530233118-b80a5f95.jpg, $representative_ext = 
+[2025-05-30 22:31:19][exec=Sf07m5Whnv]	[INFO]	upload_file_video, $file_path = ././upload/2025/05/30/20250530233118-b80a5f95.jpg, $representative_ext = 
+[2025-05-30 22:31:19][exec=Sf07m5Whnv]	[INFO]	upload_file_psd, $file_path = ././upload/2025/05/30/20250530233118-b80a5f95.jpg, $representative_ext = 
+[2025-05-30 22:31:19][exec=Sf07m5Whnv]	[INFO]	upload_file_eps, $file_path = ././upload/2025/05/30/20250530233118-b80a5f95.jpg, $representative_ext = 
+[2025-05-30 22:31:19][exec=Sf07m5Whnv]	[INFO]	Handling ././upload/2025/05/30/20250530233118-b80a5f95.jpg got 
+[2025-05-30 22:31:19][exec=Sf07m5Whnv]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/photos/i.php?/upload/2025/05/30/20250530233118-b80a5f95-me.jpg
+[2025-05-30 22:31:19][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233118-b80a5f95.jpg'
+  derivative_path: '20250530233118-b80a5f95-me.jpg'
+  o_size: '1024 1536 1572864'
+  d_size: '396 594 235224'
+  mem_usage: 7.9
+  timing: array(
+    'load' => 154,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 147,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 14,
+    'total' => 321,
+  )
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	upload_file_pdf, $file_path = ././upload/2025/05/30/20250530233120-887660f6.jpg, $representative_ext = 
+[2025-05-30 22:31:20][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233118-b80a5f95-me.jpg'
+  derivative_path: '20250530233118-b80a5f95-sq.jpg'
+  o_size: '396 594 235224'
+  d_size: '120 120 14400'
+  mem_usage: 2.5
+  timing: array(
+    'load' => 134,
+    'rotate' => '',
+    'crop' => 14,
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 16,
+    'total' => 180,
+  )
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	upload_file_heic, $file_path = ././upload/2025/05/30/20250530233120-887660f6.jpg, $representative_ext = 
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	upload_file_tiff, $file_path = ././upload/2025/05/30/20250530233120-887660f6.jpg, $representative_ext = 
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	upload_file_video, $file_path = ././upload/2025/05/30/20250530233120-887660f6.jpg, $representative_ext = 
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	upload_file_psd, $file_path = ././upload/2025/05/30/20250530233120-887660f6.jpg, $representative_ext = 
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	upload_file_eps, $file_path = ././upload/2025/05/30/20250530233120-887660f6.jpg, $representative_ext = 
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	Handling ././upload/2025/05/30/20250530233120-887660f6.jpg got 
+[2025-05-30 22:31:20][exec=Ki90Lf2I93]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/photos/i.php?/upload/2025/05/30/20250530233120-887660f6-me.jpg
+[2025-05-30 22:31:20][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233120-887660f6.jpg'
+  derivative_path: '20250530233120-887660f6-me.jpg'
+  o_size: '853 1280 1091840'
+  d_size: '395 594 234630'
+  mem_usage: 6.9
+  timing: array(
+    'load' => 147,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 117,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 28,
+    'total' => 298,
+  )
+[2025-05-30 22:31:21][exec=bPuVoWyqzX]	[DEBUG]	empty_lounge (API:pwg.images.uploadCompleted), exec=TpsU, begins
+[2025-05-30 22:31:21][exec=bPuVoWyqzX]	[DEBUG]	empty_lounge, exec=TpsU wins the race and gets the token!
+[2025-05-30 22:31:21][exec=bPuVoWyqzX]	[INFO]	invalidate_user_cache called
+[2025-05-30 22:31:21][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233120-887660f6-me.jpg'
+  derivative_path: '20250530233120-887660f6-sq.jpg'
+  o_size: '395 594 234630'
+  d_size: '120 120 14400'
+  mem_usage: 2.5
+  timing: array(
+    'load' => 141,
+    'rotate' => '',
+    'crop' => 15,
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 16,
+    'total' => 188,
+  )
+[2025-05-30 22:31:21][exec=bPuVoWyqzX]	[DEBUG]	empty_lounge, exec=TpsU, ends
+[2025-05-30 22:31:29][exec=JTfb1aNy8x]	[INFO]	[getuserdata][exec_code=81cc][user_id=1] needs user_cache to be rebuilt
+[2025-05-30 22:31:29][exec=JTfb1aNy8x]	[INFO]	[generate_user_cache-u1][exec=e93cf447] starts now
+[2025-05-30 22:31:29][exec=JTfb1aNy8x]	[INFO]	[generate_user_cache-u1][exec=e93cf447] wins the race and gets the token!
+[2025-05-30 22:31:29][exec=JTfb1aNy8x]	[INFO]	[getuserdata][exec_code=81cc][user_id=1] user_cache generated, executed in 0.007 s
+[2025-05-30 22:31:39][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233118-b80a5f95.jpg'
+  derivative_path: '20250530233118-b80a5f95-cu_e250.jpg'
+  o_size: '1024 1536 1572864'
+  d_size: '250 250 62500'
+  mem_usage: 10.8
+  timing: array(
+    'load' => 188,
+    'rotate' => '',
+    'crop' => 103,
+    'scale' => 92,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 17,
+    'total' => 405,
+  )
+[2025-05-30 22:40:24][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233120-887660f6-me.jpg'
+  derivative_path: '20250530233120-887660f6-2s.jpg'
+  o_size: '395 594 234630'
+  d_size: '159 240 38160'
+  mem_usage: 2.0
+  timing: array(
+    'load' => 159,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 26,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 16,
+    'total' => 206,
+  )
+[2025-05-30 22:40:24][exec=unkonwn]	[DEBUG]	[i.php]	
+  src_path: '20250530233118-b80a5f95-me.jpg'
+  derivative_path: '20250530233118-b80a5f95-2s.jpg'
+  o_size: '396 594 235224'
+  d_size: '160 240 38400'
+  mem_usage: 2.0
+  timing: array(
+    'load' => 164,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 26,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 20,
+    'total' => 215,
+  )
