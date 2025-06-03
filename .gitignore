@@ -4,8 +4,6 @@
 /upload
 /galleries/*
 !/galleries/index.php
-/local/*
-!/local/**/index.php
 
 # IntelliJ
 .idea
