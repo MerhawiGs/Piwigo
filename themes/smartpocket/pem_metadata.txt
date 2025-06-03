@@ -1,0 +1,2 @@
+git@github.com:Piwigo/piwigo-smartpocket.git
+dea72053d0d5d3ec1ec61fccb58dac35ad9c8bf5 2024-05-31 10:27:07 +0200
